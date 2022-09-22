@@ -1,4 +1,6 @@
-<h3 align="center">Hi 👋, I'm Rafa. Here you can see everything I do</h3>
+<h3 align="center">Hi 👋, I'm Rafa.</h3>
+<h3 align="center">Here you can see everything I do and how to contact me.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaels85&label=Profile%20views&color=0e75b6&style=flat" alt="rafaels85" /> </p>
 
 - 👨‍💻 All of my projects are available at [devolivay.com](devolivay.com)
