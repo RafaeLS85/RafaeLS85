@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Cypress**
 
-- 👨‍💻 All of my projects are available at [devolivay.com](devolivay.com)
+- 👨‍💻 All of my projects are available at [devolivay.com](https://devolivay.com)
 
 - 💬 Ask me about **JavaScript, React and Node**
 
