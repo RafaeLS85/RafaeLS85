@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rafael Olivay, <small>but everyone knows me as "Rafa"</small></h2>
+<h2 align="center">Hi 👋, I'm Rafael 🤓</h2>
 <h3 align="center">Here you can see everything I do and how to contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaels85&label=Profile%20views&color=0e75b6&style=flat" alt="rafaels85" /> </p>
