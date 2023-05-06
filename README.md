@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaels85&label=Profile%20views&color=0e75b6&style=flat" alt="rafaels85" /> </p>
 
-- 🔭 I’m currently working on [Agora Shop](https://app.agora.pe/agora-shop)
-
-- 🌱 I’m currently learning **Next.js and Cypress**
+- 🔭 I’m currently working on [SOOFT Technology](https://www.sooft.tech/en/) with Fravega Tech team.
 
 - 👨‍💻 All of my projects are available at [devolivay.com](https://devolivay.com)
 
