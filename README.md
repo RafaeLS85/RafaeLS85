@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [SOOFT Technology](https://www.sooft.tech/en/) with Fravega Tech team.
 
-- 👨‍💻 All of my projects are available at [devolivay.com](https://devolivay.com)
-
 - 💬 Ask me about **JavaScript, React and Node**
 
 - 📫 How to reach me **rafael@devolivay.com**
